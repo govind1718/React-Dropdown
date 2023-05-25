@@ -1,0 +1,30 @@
+.dropdown-menu{
+  border: none;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  height: 10px;
+  width: 100px;
+}
+.dropdown-item-toggle{
+  background-color: #af4c9e;
+  border: none;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  height: 50px;
+  width: 100px;
+}
+.sub-dropdown-item{
+  background-color: #534caf;
+}
+
+.dropdown-toggle{
+  background-color: #4CAF50;  
+  border: none;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  height: 50px;
+  width: 100px;
+}
